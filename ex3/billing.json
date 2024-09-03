@@ -1,0 +1,9 @@
+{
+  "billing": [
+    {"day": 1, "value": 150.0},
+    {"day": 2, "value": 200.0},
+    {"day": 3, "value": 0.0},
+    {"day": 4, "value": 300.0},
+    {"day": 5, "value": 250.0}
+  ]
+}
